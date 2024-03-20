@@ -9,5 +9,5 @@ sach16795/sach16795 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-
-![My LeetCode stats](https://leetcode-badge-sage.vercel.app/badge/rushabhtike?theme=dark&bgColor=282828)
+## My LeetCode stats
+![](https://leetcode-badge-sage.vercel.app/badge/rushabhtike?theme=dark&bgColor=282828)
